@@ -7,3 +7,7 @@
 ## Mis repositorios
 
 [Repositorio prueba edición perfil](https://github.com/ebersegattt/ebersegattt) Mi primer repositorio obviamente el de editar el perfil, por algo se empieza 😂
+
+## Mis estadisticas en GitHub
+
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=ebersegattt&show_icons=true&theme=dark)](https://github.com/ebersegattt/github-readme-stats)
