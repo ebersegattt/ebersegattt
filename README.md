@@ -15,7 +15,7 @@ __________
 
 - JavaScript (aprendiendo)
 
-![](https://www.flaticon.es/icono-gratis/secuencia-de-comandos-de-java_1199124?term=javascript&page=1&position=1&origin=tag&related_id=1199124)
+![](https://www.cuatromedios.com/media/SyNV7M2ySn/logo/java-white.png)
 
 #### Front End:
 
