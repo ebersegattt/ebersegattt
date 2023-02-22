@@ -11,12 +11,27 @@ __________
 
 ## Tengo conocimiento sobre:
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.flaticon.es/icono-gratis/js_5968292?term=javascript&page=1&position=3&origin=tag&related_id=5968292" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
-</p>
+#### Lenjuages de Programación
+
+- JavaScript (aprendiendo)
+
+#### Front End:
+
+- HTML
+- CSS
+- JavaScript (aprendiendo)
+
+#### Back End:
+*Dentro de poco*
+
+- Java
+__________
 
 ## Mis repositorios
 
 [Repositorio prueba edición perfil](https://github.com/ebersegattt/ebersegattt) Mi primer repositorio obviamente el de editar el perfil, por algo se empieza 😂
+__________
+
 
 ## Mis estadisticas en GitHub
 
