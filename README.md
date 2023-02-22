@@ -36,3 +36,10 @@ __________
 ## Mis estadisticas en GitHub
 
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=ebersegattt&show_icons=true&theme=dark)](https://github.com/ebersegattt/github-readme-stats)
+___________
+
+### ¡Hablemos!
+
+<a href="mailto:eberitaly@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Eber Segatori Vicens" height="30" width="40" />eberitaly@gmail.com</a>
+
+<a href="https://www.linkedin.com/in/eber-segatori-6b3264162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Eber Segatori Vicens" height="30" width="40" />linkedin</a>
