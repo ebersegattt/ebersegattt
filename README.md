@@ -15,7 +15,7 @@ __________
 
 - JavaScript (aprendiendo)
 
-![](https://www.cuatromedios.com/media/SyNV7M2ySn/logo/java-white.png)
+![](https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png)
 
 #### Front End:
 
