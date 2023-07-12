@@ -13,16 +13,17 @@ __________
 
 #### Lenjuages de Programación
 
-- JavaScript (aprendiendo)
+- JavaScript
 
 #### Front End:
 
 - HTML
 - CSS
-- JavaScript (aprendiendo)
+- JavaScript
+- React
 
-#### Back End:
-*Dentro de poco*
+#### Back End
+*En progreso*
 
 - Java
 __________
